@@ -1,0 +1,163 @@
+Unit Test Case 1: Class - HighScores; Function - Score(int& money, int& intelligence, int& timer)
+
+	Case 1.1: Score() - Max Values
+		Case 1.1: Passed
+------------------
+
+	Case 1.2: Score() Median Values
+		Case 1.2: Passed
+------------------
+
+	Case 1.3: Score() Min Values
+		Case 1.3: Passed
+------------------
+
+
+
+Unit Test Case 2: Class - HighScores; Function - newHighScore(int inputScore, string inputName)
+
+Case 2.1: newHighScore()
+		Case 2.1: Passed
+------------------
+
+
+
+Unit Test Case 3: Class - Encounter; Function - EngineeringFee(int& money)
+
+	Case 3.1: EngineeringFee() - Max value
+Auburn has implemented another new Engineering Fee. You lose $4.00
+
+		Case 3.1: Passed
+------------------
+
+	Case 3.2: EngineeringFee() - Median value
+Auburn has implemented another new Engineering Fee. You lose $4.00
+
+		Case 3.2: Passed
+------------------
+
+
+
+Unit Test Case 4: Class - Encounter; Function - MidTerm(int& intelligence, int& timer)
+
+	Case 4.1: MidTerm() - Max values
+You must take a midterm you didn't study for in a class you don't really go to. You lose 4 intelligence and lose 3 seconds, idiot
+
+		Case 4.1: Passed
+------------------
+
+	Case 4.2: MidTerm() - Median values
+You must take a midterm you didn't study for in a class you don't really go to. You lose 4 intelligence and lose 3 seconds, idiot
+
+		Case 4.2: Passed
+------------------
+
+
+
+Unit Test Case 5: Class - Encounter; Function - BookReturn(int& money, int& timer)
+
+	Case 5.1: BookReturn() - Max values
+You don't need one of the expensive textbooks you purchased this semester. You return it to the bookstore for $4.00 but lose 3 seconds
+
+		Case 5.1: Passed
+------------------
+
+	Case 5.2: BookReturn() - Median values
+You don't need one of the expensive textbooks you purchased this semester. You return it to the bookstore for $4.00 but lose 3 seconds
+
+		Case 5.2: Passed
+------------------
+
+	Case 5.3: BookReturn() - Min values
+You don't need one of the expensive textbooks you purchased this semester. You return it to the bookstore for $4.00 but lose 3 seconds
+
+		Case 5.3: Passed
+------------------
+
+
+
+Unit Test Case 6: Class - Encounter; Function - StudyGuide(int& intelligence)
+
+	Case 6.1: StudyGuide() - Max value
+Your Professor posted a study guide with answers on Canvas for an upcoming exam. You feel smarter already. Gain 4 intelligence
+
+		Case 6.1: Passed
+------------------
+
+	Case 6.2: StudyGuide() - Median value
+Your Professor posted a study guide with answers on Canvas for an upcoming exam. You feel smarter already. Gain 4 intelligence
+
+		Case 6.2: Passed
+------------------
+
+	Case 6.3: StudyGuide() - Min value
+Your Professor posted a study guide with answers on Canvas for an upcoming exam. You feel smarter already. Gain 4 intelligence
+
+		Case 6.3: Passed
+------------------
+
+
+
+Unit Test Case 7: Class - Encounter; Function - Vocareum(int& money, int& intelligence, int& timer)
+
+	Case 7.1: Vocareum() - Max values
+Your newest COMP class requires a paid subscription for a program that checks the correctness of your coding assignments
+when that free program you used last semester worked just as well. You lose $5.00 and 4 intelligence and lose 3 seconds.
+
+		Case 7.1: Passed
+------------------
+
+	Case 7.2: Vocareum() - Median values
+Your newest COMP class requires a paid subscription for a program that checks the correctness of your coding assignments
+when that free program you used last semester worked just as well. You lose $5.00 and 4 intelligence and lose 3 seconds.
+
+		Case 7.2: Passed
+------------------
+
+
+
+Unit Test Case 8: Class - System; Function - ReadTechPapers(int& intelligence, int& timer)
+
+	Case 8.1: ReadTechPapers() - Max values
+You have gained 3 intelligence, but lose 3 seconds. Good job nerd.
+
+		Case 8.1: Passed
+------------------
+
+	Case 8.2: ReadTechPapers() - Median values
+You have gained 3 intelligence, but lose 3 seconds. Good job nerd.
+
+		Case 8.2: Passed
+------------------
+
+	Case 8.3: ReadTechPapers() - Min values
+You have gained 3 intelligence, but lose 3 seconds. Good job nerd.
+
+		Case 8.3: Passed
+------------------
+
+
+
+Unit Test Case 9: Class - System; Function - Search(int& money, int& timer)
+
+	Case 9.1: Search() - Max values
+You have gained $3.00, but lose 3 seconds. I have no sarcastic comment. You have gained money and your persistence is commendable.
+
+		Case 9.1: Passed
+------------------
+
+	Case 9.2: Search() - Median values
+You have gained $3.00, but lose 3 seconds. I have no sarcastic comment. You have gained money and your persistence is commendable.
+
+		Case 9.2: Passed
+------------------
+
+	Case 9.3: Search() - Min values
+You have gained $3.00, but lose 3 seconds. I have no sarcastic comment. You have gained money and your persistence is commendable.
+
+		Case 9.3: Passed
+------------------
+
+
+
+Testing is complete...
